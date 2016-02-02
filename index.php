@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>HTML-Lib</h1>
-    <p>Werkt</p>
+    <p>Veranderd</p>
   </body>
 </html>
