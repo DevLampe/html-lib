@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Element;
+ namespace \lampe\htmllib\Element;
 
 class Element
 {

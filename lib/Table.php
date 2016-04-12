@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Table;
+ namespace \lampe\htmllib\Table;
 
 require_once('Element.php');
 

@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\h1;
+ namespace \lampe\htmllib\h1;
 
 require_once("Element.php");
 

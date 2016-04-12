@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Nav;
+ namespace \lampe\htmllib\Nav;
 
 require_once("Element.php");
 

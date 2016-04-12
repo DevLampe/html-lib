@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\image;
+ namespace \lampe\htmllib\image;
 
 
 require_once("Element.php");

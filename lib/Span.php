@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Span;
+ namespace \lampe\htmllib\Span;
 
 require_once('Element.php');
 

@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Footer;
+ namespace \lampe\htmllib\Footer;
 
 require_once("Element.php");
 

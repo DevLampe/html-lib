@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\header;
+ namespace \lampe\htmllib\header;
 require_once("Element.php");
 
 class Header extends Element

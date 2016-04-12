@@ -1,6 +1,6 @@
 <?php
 
- namespace \Nicolas\htmllib\Form;
+ namespace \lampe\htmllib\Form;
 
 
 require_once("Element.php");
