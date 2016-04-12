@@ -1,0 +1,11 @@
+{
+    "name": "lampe/demo-app",
+    "description": "Demo",
+    "authors": [
+        {
+            "name": "Mathias Peers",
+            "email": "mathias.peers@student.vives.be"
+        }
+    ],
+    "require": {}
+}
