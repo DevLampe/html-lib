@@ -1,10 +1,8 @@
 <?php
 
 
-  $loader = require __DIR__ . '/vendor/autoload.php';
-
-  $loader->add('nicolas\\html-lib\\',__DIR__,'/lib');
-use \nicolas\html-lib\{H1,H2,Header,P,Div,Button}
+    require __DIR__ . '/vendor/autoload.php';
+use lampe\htmllib\{H1,H2,Header,P,Div,Button}
 
 
  ?>

@@ -8,4 +8,7 @@
         }
     ],
     "require": {}
+    "autoload" {
+        "psr-4": {"lampe\\htmllib\\": "lib/"}
+    }
 }
